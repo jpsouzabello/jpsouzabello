@@ -5,7 +5,7 @@
 <a href = "jpsouzabello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## 🚀 Sobre mim
-👨🏼‍🎓 Estudando Sistemas de Informação (6º Período).
+👨🏼‍🎓 Estudando Sistemas de Informação (7º Período).
 
 👩‍💻 Buscando oportunidades no mercado de trabalho.
 
